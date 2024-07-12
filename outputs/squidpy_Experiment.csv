@@ -1,0 +1,126 @@
+Key,Value
+CellProfiler_Version,4.2.6
+ChannelType_Segments,Objects
+ChannelType_Spot_Crop,Color
+ImageSet_Zip_Dictionary,b'PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48T01FIHhtbG5zPSJodHRwOi8vd3d3Lm9wZW5taWNyb3Njb3B5Lm9yZy9TY2hlbWFzL09NRS8yMDE2LTA2Ij48SW1hZ2UgSUQ9IlNwb3RfQ3JvcCI+PFBpeGVscyBEaW1lbnNpb25PcmRlcj0iWFlDWlQiIElEPSJQaXhlbHM6U3BvdF9Dcm9wIiBTaXplQz0iMSIgU2l6ZVQ9IjEiIFNpemVYPSIxIiBTaXplWT0iMSI+PFRpZmZEYXRhIEZpcnN0Qz0iMCIgRmlyc3RUPSIwIiBGaXJzdFo9IjAiIElGRD0iMCIgUGxhbmVDb3VudD0iMSI+PFVVSUQgRmlsZU5hbWU9ImZpbGU6Ly8vQzovVXNlcnMvYW5kcmV3L3Byb2plY3RzL2ZlYXR1cmVfZXh0cmFjdGlvbl90dXRvcmlhbC90bXBfaW1ncy9pbWFnZV9BQUFDR0FHQUNHR1RUR0FULTEucG5nIi8+PC9UaWZmRGF0YT48UGxhbmUgVGhlQz0iMCIgVGhlVD0iMCIgVGhlWj0iMCI+PEFubm90YXRpb25SZWYgSUQ9ImluZm86Ly9jZWxscHJvZmlsZXIub3JnL2ltYWdlc2V0L2Fubm90YXRpb24vMjAxNC0wNC0xNy9DaGFubmVsLy0yIi8+PC9QbGFuZT48L1BpeGVscz48L0ltYWdlPjxJbWFnZSBJRD0iU2VnbWVudHMiPjxQaXhlbHMgRGltZW5zaW9uT3JkZXI9IlhZVENaIiBJRD0iUGl4ZWxzOlNlZ21lbnRzIiBTaXplVD0iMSIgU2l6ZVg9IjEiIFNpemVZPSIxIj48VGlmZkRhdGEgRmlyc3RDPSIwIiBGaXJzdFQ9IjAiIEZpcnN0Wj0iMCIgSUZEPSIwIiBQbGFuZUNvdW50PSIxIj48VVVJRCBGaWxlTmFtZT0iZmlsZTovLy9DOi9Vc2Vycy9hbmRyZXcvcHJvamVjdHMvZmVhdHVyZV9leHRyYWN0aW9uX3R1dG9yaWFsL3RtcF9pbWdzL3NlZ21lbnRzX0FBQUNHQUdHR1RUR0FULTE+PC9QeHM+PC91dHVkTG9uZ0Fubm90YXRpb25lc2NyaGFubkRlc2NyaXB0aW9uPlZhbHVlPjx0aW9uPjxTdHJ1Y3R1cmVkQW5ub3RhdGlvbnM+PE9fQ0FDQ0dDQ0FHQUFHR1RUVC0xLl9DR0NDQUdBVFRfR0FBQ0FDQUNBVENBQUNDQS0xLkdBQUNBQ0FDVENBQ0NBeG1sc2lvbjEuMCJlbmNvRj9PTUVuczovd3cub3NjLm9yZy9TbXMvT01FLTZJbWFnZSBvdG9wIj48UGl4ZWxzIERpbWVuc2lvbk9yZGVyPSJYWVQiIElEPSJTcG90X0Nyb3AiIFNpemVDPSIxIiBTaXplVD0iMSIgU2l6ZVg9IjEiIFNpemVZPSIxIj48VGlmZkRhdGEgRmlyc3RDPSIwIiBGaXJzdFQ9IjAiIEZpcnN0Wj0iMCIgSUZEPSIwIiBQbGFuZUNvdW50PSIxIj48VVVJRCBGaWxlTmFtZT0iZmlsZTovLy9DOi9Vc2Vycy9hbmRyZXcvcHJvamVjdHMvZmVhdHVyZV9leHRyYWN0aW9uX3R1dG9yaWFsL3RtcF9pbWdzL2ltYWdlX1RBR0FHQ1RBQ0dBQUdBQUMtMS5uZz48YXRQbGFuZSBUaGVDPSIwIiBUaGVUPSIwIj0iMCI+PEFubm90YXRpb25mIElpbm9jcHJvZXJvcmltYXRubm90YXRpb24vMjAxNC0wQ2hhbm5lbC8tMiIvPjwvZT48L1BpeGVscz48L0ltYWdlPjxJbWFnZSBJRD0iU2VnbWVudHM+PFBpeGVscyBtZW5DWiIgSUQ9IlBpeGVsczpTZWdtZW50cyJYPSIxIlk9IjEiPjxUaWZmRGF0YSBGaXJzdEM9IjAiIEZpcnN0VD0iMCIgWj0iMCJEPSJudD0iMVVJRCBGaU5hbWU9ImZpbGU6Ly8vQzplcnMvYW50dXJldHJjdHJpYWxzZUFHVEFDR0FBR0FBQw=='
+Metadata_Tags,"[""ImageNumber""]"
+Pipeline_Pipeline,"CellProfiler Pipeline: http://www.cellprofiler.org
+Version:5
+DateRevision:426
+GitHash:
+ModuleCount:7
+HasImagePlaneDetails:False
+
+Images:[module_num:1|svn_version:'Unknown'|variable_revision_number:2|show_window:False|notes:['To begin creating your project, use the Images module to compile a list of files and/or folders that you want to analyze. You can also specify a set of rules to include only the desired files in your selected folders.']|batch_state:array([], dtype=uint8)|enabled:True|wants_pause:False]
+    :
+    Filter images?:Images only
+    Select the rule criteria:and (extension does isimage) (directory doesnot containregexp ""[\\\\/]\\."")
+
+Metadata:[module_num:2|svn_version:'Unknown'|variable_revision_number:6|show_window:False|notes:['The Metadata module optionally allows you to extract information describing your images (i.e, metadata) which will be stored along with your measurements. This information can be contained in the file name and/or location, or in an external file.']|batch_state:array([], dtype=uint8)|enabled:True|wants_pause:False]
+    Extract metadata?:No
+    Metadata data type:Text
+    Metadata types:{}
+    Extraction method count:1
+    Metadata extraction method:Extract from file/folder names
+    Metadata source:File name
+    Regular expression to extract from file name:^(?P<Plate>.*)_(?P<Well>[A-P][0-9]{2})_s(?P<Site>[0-9])_w(?P<ChannelNumber>[0-9])
+    Regular expression to extract from folder name:(?P<Date>[0-9]{4}_[0-9]{2}_[0-9]{2})$
+    Extract metadata from:All images
+    Select the filtering criteria:and (file does contain """")
+    Metadata file location:Elsewhere...|
+    Match file and image metadata:[]
+    Use case insensitive matching?:No
+    Metadata file name:None
+    Does cached metadata exist?:No
+
+NamesAndTypes:[module_num:3|svn_version:'Unknown'|variable_revision_number:8|show_window:False|notes:['The NamesAndTypes module allows you to assign a meaningful name to each image by which other modules will refer to it.']|batch_state:array([], dtype=uint8)|enabled:True|wants_pause:False]
+    Assign a name to:Images matching rules
+    Select the image type:Grayscale image
+    Name to assign these images:DNA
+    Match metadata:[]
+    Image set matching method:Order
+    Set intensity range from:Image metadata
+    Assignments count:2
+    Single images count:0
+    Maximum intensity:255.0
+    Process as 3D?:No
+    Relative pixel spacing in X:1.0
+    Relative pixel spacing in Y:1.0
+    Relative pixel spacing in Z:1.0
+    Select the rule criteria:and (file does startwith ""image"")
+    Name to assign these images:Spot_Crop
+    Name to assign these objects:Cell
+    Select the image type:Color image
+    Set intensity range from:Image bit-depth
+    Maximum intensity:255.0
+    Select the rule criteria:and (file does startwith ""segments"")
+    Name to assign these images:Objects
+    Name to assign these objects:Segments
+    Select the image type:Objects
+    Set intensity range from:Image metadata
+    Maximum intensity:255.0
+
+Groups:[module_num:4|svn_version:'Unknown'|variable_revision_number:2|show_window:False|notes:['The Groups module optionally allows you to split your list of images into image subsets (groups) which will be processed independently of each other. Examples of groupings include screening batches, microtiter plates, time-lapse movies, etc.']|batch_state:array([], dtype=uint8)|enabled:True|wants_pause:False]
+    Do you want to group your images?:No
+    grouping metadata count:1
+    Metadata category:None
+
+ColorToGray:[module_num:5|svn_version:'Unknown'|variable_revision_number:4|show_window:True|notes:[]|batch_state:array([], dtype=uint8)|enabled:True|wants_pause:False]
+    Select the input image:Spot_Crop
+    Conversion method:Combine
+    Image type:RGB
+    Name the output image:SpotGray
+    Relative weight of the red channel:1.0
+    Relative weight of the green channel:1.0
+    Relative weight of the blue channel:1.0
+    Convert red to gray?:Yes
+    Name the output image:OrigRed
+    Convert green to gray?:Yes
+    Name the output image:OrigGreen
+    Convert blue to gray?:Yes
+    Name the output image:OrigBlue
+    Convert hue to gray?:Yes
+    Name the output image:OrigHue
+    Convert saturation to gray?:Yes
+    Name the output image:OrigSaturation
+    Convert value to gray?:Yes
+    Name the output image:OrigValue
+    Channel count:1
+    Channel number:1
+    Relative weight of the channel:1.0
+    Image name:Channel1
+
+MeasureGranularity:[module_num:6|svn_version:'Unknown'|variable_revision_number:4|show_window:True|notes:[]|batch_state:array([], dtype=uint8)|enabled:True|wants_pause:False]
+    Select images to measure:SpotGray
+    Measure within objects?:Yes
+    Select objects to measure:Segments
+    Subsampling factor for granularity measurements:0.25
+    Subsampling factor for background reduction:0.25
+    Radius of structuring element:10
+    Range of the granular spectrum:16
+
+ExportToSpreadsheet:[module_num:7|svn_version:'Unknown'|variable_revision_number:13|show_window:True|notes:[]|batch_state:array([], dtype=uint8)|enabled:True|wants_pause:False]
+    Select the column delimiter:Comma ("","")
+    Add image metadata columns to your object data file?:Yes
+    Add image file and folder names to your object data file?:No
+    Select the measurements to export:No
+    Calculate the per-image mean values for object measurements?:Yes
+    Calculate the per-image median values for object measurements?:No
+    Calculate the per-image standard deviation values for object measurements?:Yes
+    Output file location:Default Input Folder sub-folder|projects\\feature_extraction_tutorial
+    Create a GenePattern GCT file?:No
+    Select source of sample row name:Metadata
+    Select the image to use as the identifier:None
+    Select the metadata to use as the identifier:None
+    Export all measurement types?:Yes
+    Press button to select measurements:
+    Representation of Nan/Inf:NaN
+    Add a prefix to file names?:Yes
+    Filename prefix:squidpy_
+    Overwrite existing files without warning?:No
+    Data to export:Do not use
+    Combine these object measurements with those of the previous object?:No
+    File name:DATA.csv
+    Use the object name for the file name?:Yes
+"
+Run_Timestamp,2024-07-11T20:58:24.520346
